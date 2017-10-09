@@ -30,7 +30,7 @@ This library allows you to make requests to your [Doofinder](http://www.doofinde
 ### bower
 `bower install doofinder`
 
-### Downloadable minified javascript file
+### Downloadable minified javascript file [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/doofinder/badge?style=rounded)](https://www.jsdelivr.com/package/npm/doofinder)
 https://cdn.jsdelivr.net/doofinder/latest/doofinder.min.js
 
 ### CSS
